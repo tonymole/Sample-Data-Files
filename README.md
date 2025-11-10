@@ -1,1 +1,1 @@
-Random sample Datasets to be used for self training and testing
+Random sample datasets to be used for self training and testing
